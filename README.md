@@ -25,7 +25,7 @@ For detailed walkthrough, please view the source code below:
 - Seasonal-ARIMAX (SARIMAX) 
 - Linear Regression
 
-## Out-of-classroom learning
+## Out-of-classroom implementations
 - Initiating the use of Git-hub and Google Colab for collaboration 
 - Plotting a world map for data visualisation
 - Implementing and choosing a right forecasting models
