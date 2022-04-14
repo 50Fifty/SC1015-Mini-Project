@@ -2,7 +2,7 @@
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on making predictions on the likelihood of natural disasters occuring based on the change in our climate.
 
-(https://www.usgs.gov/faqs/how-can-climate-change-affect-natural-disasters). 
+(https://docs.google.com/presentation/d/1J5O34ClllCszNBYHl5l9RQCixlJtVRxFab4xB8KYePg/edit?usp=sharing)
 For detailed walkthrough, please view the source code below:
 
 
