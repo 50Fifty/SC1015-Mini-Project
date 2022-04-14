@@ -47,4 +47,5 @@ For detailed walkthrough, please view the source code below:
 - This prediction is not 100% accurate 
 - Data collected in the greenhouse gases datasets might not be complete and accurate
 - We shall not hold responsibility for any misinformation for the prediction, data derived from prediction, and data presented from the predictions and analysis
-
+- Any part in this repository is and will be subjected to copyright 
+- Redistribution and licensing of this project shall only be for the sole purpose of education purposes
