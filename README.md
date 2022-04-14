@@ -25,7 +25,11 @@ For detailed walkthrough, please view the source code below:
 - Seasonal-ARIMAX (SARIMAX) 
 - Linear Regression
 
-
+## Out-of-classroom learning
+- Initiating the use of Git-hub and Google Colab for collaboration 
+- Plotting world map 
+- Choosing a right forecasting model 
+- 
 ## Challenges faced
 
 
@@ -35,4 +39,12 @@ For detailed walkthrough, please view the source code below:
 ## Conclusion
 
 
+#### Disclaimer 
+- This prediction is not 100% accurate 
+- Data collected in the greenhouse gases datasets might not be complete and accurate
+- We shall not hold responsibility for any misinformation for the prediction, data derived from prediction, and data presented from the predictions and analysis
+
+
 ## External links, references , inspirations
+
+
