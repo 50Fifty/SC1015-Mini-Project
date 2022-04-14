@@ -27,8 +27,8 @@ For detailed walkthrough, please view the source code below:
 
 ## Out-of-classroom learning
 - Initiating the use of Git-hub and Google Colab for collaboration 
-- Plotting world map 
-- Choosing a right forecasting model 
+- Plotting a world map for data visualisation
+- Implementing and choosing a right forecasting models
 - 
 ## Challenges faced
 
