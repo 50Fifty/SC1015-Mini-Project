@@ -1,5 +1,10 @@
-# SC1015 Datascience Mini-project: Natural Disaster Occurence  
+# SC1015 Datascience Mini-project: Natural Disaster Occurence Predictions
 ## About
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on making predictions on the likelihood of natural disasters occuring based on the change in our climate.
+
+(https://www.usgs.gov/faqs/how-can-climate-change-affect-natural-disasters). 
+For detailed walkthrough, please view the source code below:
+
 
 ## Source code of individual components (in order)
 1. [EDA](https://github.com/)
@@ -15,8 +20,10 @@
 ## Problem definition
 
 
-## Model used
-
+## Models used
+- Grid Search ARIMA hyperparameters
+- Seasonal-ARIMAX (SARIMAX) 
+- Linear Regression
 
 
 ## Challenges faced
