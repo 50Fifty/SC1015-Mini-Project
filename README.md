@@ -25,10 +25,9 @@ For detailed walkthrough, please view the source code below:
 5. [Information Presentation](https://github.com/)
 
 ## Contributors
-
-
-
-
+- Foo Jen Sean @
+- Karishein Chandran @
+- Jeffrey Lim Yi Ren@
 
 ## Models used
 - Grid Search ARIMA hyperparameters
