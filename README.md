@@ -12,7 +12,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 
 (https://docs.google.com/presentation/d/1J5O34ClllCszNBYHl5l9RQCixlJtVRxFab4xB8KYePg/edit?usp=sharing)
-For detailed walkthrough, please view the source code below: https://github.com/Dumbledore66/Mini-Project/blob/main/README.md####Disclaimer
+For detailed walkthrough, please view the source code below: https://github.com/Dumbledore66/Mini-Project/blob/main/README.md#disclaimer
 
 For any other project related queries , please refer to 
 ## Source code of individual components (in order)
