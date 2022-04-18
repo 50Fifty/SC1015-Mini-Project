@@ -4,7 +4,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ![image](https://github.com/Dumbledore66/Mini-Project/blob/main/Project%20cover%20page.png)
 
-For any queries related to this project , please refer to [Disclaimer](https://github.com/Dumbledore66/Mini-Project/blob/main/README.md#disclaimer)
+For any queries related to this project , please refer to [Disclaimer](https://github.com/Dumbledore66/Mini-Project/blob/main/README.md#disclaimer) before sending us an enquiry
 
 ## Problem definition
 
