@@ -64,6 +64,6 @@ For detailed walkthrough, please view the source code below:
 - There are many other factors that can affect the occurence rate of Natural disasters in a real world settings
 - Data collected in the greenhouse gases datasets might not be complete and accurate
 - We shall not hold responsibility for any misinformation of data for prediction and modelling, data derived from prediction, and data presented in any form in this project
-- Any part in this repository is and will be subjected to copyright 
-- All datasets, knowledge-based information and source codes are credited to their rightful owners 
+- Any part in this repository is and will be subjected to copyright act
+- All datasets, knowledge-based information and source codes are credited to their rightful owners
 - Redistribution and licensing of this project shall only be for the sole purpose of education purposes
