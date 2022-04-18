@@ -41,7 +41,7 @@ For detailed walkthrough, please view the source code below:
 - Implementing Multi-Variate linear regression model
 
 ## Challenges faced
-- Greenhouse gases datasets have different starting time
+- Greenhouse gases datasets have different starting year datapoints
 - Temperature change datasets 
 - Disasters datasets 
 
