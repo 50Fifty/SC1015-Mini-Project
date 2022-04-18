@@ -36,8 +36,8 @@ For detailed walkthrough, please view the source code below:
 - Multi-Variate Linear Regression
 
 ## Out-of-classroom implementations
-- Initiating the use of Git-hub and Google Colab for collaboration 
-- Plotting a world map for data visualisation
+- Initiating the use of Git-hub and Google Colab for project collaboration and data repository purposes
+- Implementing different visualiztion tools such as world map, 
 - Implementing and choosing a right forecasting models
 - Implementing Multi-Variate linear regression model
 
