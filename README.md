@@ -18,6 +18,7 @@ For detailed walkthrough, please view the source code below:
 
 
 ## Source code of individual components (in order)
+(**Please Install all relevant dependencies and libraries required for EACH individual components**)
 1. [EDA](https://github.com/)
 2. [Prediction and Modelling](https://github.com/)
 3. [Analytic Visualisation](https://github.com/)
