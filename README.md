@@ -4,6 +4,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ![image](https://github.com/Dumbledore66/Mini-Project/blob/main/Project%20cover%20page.png)
 
+## Problem definition
+
 ## Motivations
 
 
@@ -24,7 +26,6 @@ For detailed walkthrough, please view the source code below:
 
 
 
-## Problem definition
 
 
 ## Models used
