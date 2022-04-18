@@ -30,15 +30,18 @@ For detailed walkthrough, please view the source code below:
 ## Models used
 - Grid Search ARIMA hyperparameters
 - Seasonal-ARIMAX (SARIMAX) 
-- Linear Regression
+- Multi-Variate Linear Regression
 
 ## Out-of-classroom implementations
 - Initiating the use of Git-hub and Google Colab for collaboration 
 - Plotting a world map for data visualisation
 - Implementing and choosing a right forecasting models
-- 
-## Challenges faced
+- Implementing Multi-Variate linear regression model
 
+## Challenges faced
+- Greenhouse gases datasets have different starting time
+- Temperature change datasets 
+- Disasters datasets 
 
 ## What did we learn
 
@@ -48,6 +51,11 @@ For detailed walkthrough, please view the source code below:
 
 
 ## External links, references , inspirations
+- Disaster dataset: https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis
+- Temperature dataset: https://data.giss.nasa.gov/gistemp/
+- C02 dataset: https://gml.noaa.gov/ccgg/trends/data.html
+- CH4 dataset: https://gml.noaa.gov/ccgg/trends_ch4/
+- N20 dataset: https://gml.noaa.gov/ccgg/trends_n2o/
 
 
 #### (Please Read)
