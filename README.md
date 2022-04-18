@@ -51,7 +51,7 @@ For detailed walkthrough, please view the source code below:
 
 
 
-## External links, references , inspirations
+## External links, references & inspirations
 - Disaster dataset: https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis
 - Temperature dataset: https://data.giss.nasa.gov/gistemp/
 - C02 dataset: https://gml.noaa.gov/ccgg/trends/data.html
@@ -60,7 +60,8 @@ For detailed walkthrough, please view the source code below:
 
 
 #### (Please Read)
-- This prediction is not 100% accurate 
+- This prediction is not fine tuned for 100% accuracy
+- There are many other factors that can affect the occurence rate of Natural disasters in a real world settings
 - Data collected in the greenhouse gases datasets might not be complete and accurate
 - We shall not hold responsibility for any misinformation for the prediction, data derived from prediction, and data presented from the predictions and analysis
 - Any part in this repository is and will be subjected to copyright 
