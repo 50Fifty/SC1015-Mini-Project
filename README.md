@@ -62,7 +62,7 @@ For detailed walkthrough, please view the source code below:
 
 
 #### Disclaimer
-- This prediction is not fine tuned for 100% accuracy
+- This prediction is **NOT** fine-tuned for 100% accuracy
 - There are many other factors that can affect the occurence rate of Natural disasters in a real world settings
 - Data collected in the greenhouse gases datasets might not be complete and accurate
 - We shall not hold responsibility for any misinformation of data for prediction and modelling, data derived from prediction, and data presented in any form in this project
