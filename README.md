@@ -26,8 +26,8 @@ For any queries related to this project , please refer to [Disclaimer](#disclaim
 
 
 
-For brief explanation of project walkthrough, please refer to the slides [below](#external-links-references--inspirations)
-For detailed project walkthrough, please view the source code [below](#source-code-of-individual-components--in-order)
+For brief explanation of project walkthrough, please refer to the slides [below](#external-links-references--inspirations)\n
+For detailed project walkthrough, please view the source code [below](#source-code-of-individual-components-in-order)
 
 
 
