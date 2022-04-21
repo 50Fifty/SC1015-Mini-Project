@@ -25,7 +25,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
     - [ARIMA model file: ARIMA.ipynb]()
     - [ARIMA Introduction](#arima-introduction)
     - [Hyperparameters Tuning using Grid search for ARIMA](#hyperparameters-tuning-using-grid-search-for-arima)
-    - [Obtaining Test Data](#obtaining-test-data-arima)
+    - [Obtaining Test Data ARIMA](#obtaining-test-data-arima)
     - [Future Prediction using ARIMA model](#future-prediction-with-arima-model)
     - [SARIMA Introduction](#sarima-introduction)
     - [SARIMA model file: SARIMA.ipynb]()
@@ -84,7 +84,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Hyperparameters Tuning using Grid search for ARIMA
 
-## Obtaining Test Data SARIMA
+## Obtaining Test Data ARIMA
 
 ## Future Prediction with ARIMA Model
 
