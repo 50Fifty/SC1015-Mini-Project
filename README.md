@@ -4,7 +4,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ![image](https://github.com/Dumbledore66/Mini-Project/blob/main/Project%20cover%20page.png)
 
-For any queries related to this project , please refer to [Disclaimer](###Disclaimer) section before sending us an enquiry
+For any queries related to this project , please refer to [Disclaimer](####Disclaimer) section before sending us an enquiry
 
 ## Problem definition
 
@@ -71,5 +71,5 @@ For detailed walkthrough, please view the source code below:
 - Data collected in the greenhouse gases datasets might not be complete and accurate
 - We shall not hold responsibility for any misinformation of data for prediction and modelling, data derived from prediction, and data presented in any form in this project
 - Any part in this repository is and will be subjected to copyright act
-- All datasets, knowledge-based information and source codes are credited to their rightful owners under [External links, references & inspirations](## External links, references & inspirations)
+- All datasets, knowledge-based information and source codes are credited to their rightful owners under [External links, references & inspirations](##External-links,-references-&-inspirations)
 - Redistribution and licensing of this project shall only be for the sole purpose of education purposes
