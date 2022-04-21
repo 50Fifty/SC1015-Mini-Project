@@ -5,7 +5,6 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ![image](https://github.com/Dumbledore66/Mini-Project/blob/main/Project%20cover%20page.png)
 
-For any queries related to this project , please refer to [Disclaimer](#disclaimer) section before sending us an enquiry
 
 
 # Table of Contents
@@ -58,6 +57,7 @@ For detailed project walkthrough, please view the source code [below](#source-co
 | Karishein Chandran    |                                          |                    |
 | Foo Jen Sean          |                                          |                    |
 | Jeffrey Lim Yi Ren    |                                          |                    |
+For any queries related to this project , please refer to [Disclaimer](#disclaimer) section before sending us an enquiry
 
 # Source code of individual components (in order)
 `Please Install all relevant dependencies and libraries required for EACH individual components`
