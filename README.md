@@ -6,11 +6,20 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ![image](https://github.com/Dumbledore66/Mini-Project/blob/main/Project%20cover%20page.png)
 
 
+# Contributors
+> For any queries related to this project , please refer to [Disclaimer](#disclaimer) section before sending us an enquiry
+
+| Name                  |              Area of Focus               |    Telegram handle |
+|----------------------|:----------------------------------------:|----------------|
+|     |                                          |                    |
+|          |                                          |                    |
+|  |                                          |                    |  
+
 
 # Table of Contents
 - [Problem definitions](#problem-definition)
 - [Project Motivations](#motivations)
-- [Team members](#contributors)
+<!-- - [Team members](#contributors) -->
 - [Source code individual components](#source-code-of-individual-components-in-order)
 - [Machine learning Models Used](#models-used)
 
@@ -58,15 +67,6 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 > For detailed project walkthrough, please view the source code [below](#source-code-of-individual-components-in-order)
 
 
-
-# Contributors
-> For any queries related to this project , please refer to [Disclaimer](#disclaimer) section before sending us an enquiry
-
-| Name                  |              Area of Focus               |    Telegram handle |
-|----------------------|:----------------------------------------:|----------------|
-|     |                                          |                    |
-|          |                                          |                    |
-|  |                                          |                    |  
 
 
 # Source code of individual components (in order)
