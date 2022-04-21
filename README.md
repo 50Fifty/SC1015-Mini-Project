@@ -10,9 +10,10 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 # Table of Contents
 - [Problem definitions](#problem-definition)
 - [Project Motivations](#motivations)
+- [Source code individual components](#source-code-of-individual-components-in-order)
 - [Team members](#contributors)
 - [Dataset Selection & Preparation](#dataset-selection--preparation)
-    - [Kaggle](https://www.kaggle.com/datasets/teyang/singapore-hdb-flat-resale-prices-19902020)
+    - []
 - [Exploratory Data Analysis](#exploratory-data-analysis)
     - [EDA.ipynb]()
     - [ ]
@@ -31,7 +32,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
     - [Hyperparameters Tuning using Grid search](#hyperparameters-tuning-with-grid-search-for-s-arimax)
     - [Obtaining Test Data S-ARIMAX](#obtaining-test-data-s-arimax)
     - [Future Price Prediction](#future-prediction-with-s-arimax)
-- [Insights of Data & Conclusion](#insights-of-data--conclusion)
+- [Insights, Observations and Conclusion](#insights-observations-and-conclusion)
+- [Challenges faced](#challenges-faced)
 - [Out-of-classroom implementations](#out-of-classroom-implementations)
 - [Closing Remarks](#closing-remarks)
 - [External links, references & inspirations](#external-links-references--inspirations)
@@ -54,53 +56,58 @@ For detailed project walkthrough, please view the source code [below](#source-co
 
 | Name                  |              Area of Focus               |    Telegram handle |
 |----------------------|:----------------------------------------:|----------------|
-| Karishein Chandran    |                                          |                    |
-| Foo Jen Sean          |                                          |                    |
-| Jeffrey Lim Yi Ren    |                                          |                    |
+|     |                                          |                    |
+|          |                                          |                    |
+|  |                                          |                    |
 For any queries related to this project , please refer to [Disclaimer](#disclaimer) section before sending us an enquiry
 
 # Source code of individual components (in order)
 `Please Install all relevant dependencies and libraries required for EACH individual components`
 1. [EDA](https://github.com/)
-2. [Prediction and Modelling](https://github.com/)
-3. [Analytic Visualisation](https://github.com/)
-4. [Algorithmic Optimisation](https://github.com/)
-5. [Information Presentation](https://github.com/)
+2. [ARIMA Model](https://github.com/)
+3. [S-ARIMAX Model](https://github.com/)
+4. [Multi-Variate Linear regression](https://github.com/)
 
 # Models used
 - Grid Search ARIMA hyperparameters
 - Seasonal-ARIMAX (SARIMAX) 
 - Multi-Variate Linear Regression
 
-- [Machine Learning](#machine-learning)
-    - [ARIMA model file: ARIMA.ipynb]()
-    - [ARIMA Introduction](#arima-introduction)
-    - [Hyperparameters Tuning using Grid search for ARIMA](#hyperparameters-tuning-with-grid-search-for-arima)
-    - [Obtaining Test Data](#obtaining-test-data-arima)
-    - [Future Prediction using the ARIMA model](#future-prediction-with-arima)
-    - [S-ARIMAX Introduction](#s-arimax-introduction)
-    - [S-ARIMAX model file: SARIMAX.ipynb]()
-    - [Hyperparameters Tuning using Grid search](#hyperparameters-tuning-with-grid-search-for-s-arimax)
-    - [Obtaining Test Data S-ARIMAX](#obtaining-test-data-s-arimax)
-    - [Future Price Prediction](#future-prediction-with-s-arimax)
+# Machine Learning 
+## ARIMA Introduction
+[ARIMA model file]:(ARIMA.ipynb)
+
+## Hyperparameters Tuning using Grid search for ARIMA
+
+## Obtaining Test Data S-ARIMAX
+
+## Future Prediction using the ARIMA model
+
+## S-ARIMAX Introduction
+
+## S-ARIMAX model file: SARIMAX.ipynb]()
+
+## Hyperparameters Tuning using Grid search
+
+## Obtaining Test Data S-ARIMAX
+
+## Future Price Prediction
 
 
 
-# Insights 
+# Insights, Observations and Conclusion
 
-
-# Out-of-classroom implementations
-- Initiating the use of Git-hub and Google Colab for project collaboration and data repository purposes
-- Implementing different visualiztion tools such as world map, 
-- Implementing and choosing a right forecasting models
-- Implementing Multi-Variate linear regression model
 
 # Challenges faced
 - Greenhouse gases datasets have different starting year datapoints
 - Temperature change datasets 
 - Disasters datasets 
-
-# What did we learn
+- 
+# Out-of-classroom implementations
+- Initiating the use of Git-hub and Google Colab for project collaboration and data repository purposes
+- Implementing different visualiztion tools such as world map, 
+- Implementing and choosing a right forecasting models
+- Implementing Multi-Variate linear regression model
 
 
 # Closing Remarks
