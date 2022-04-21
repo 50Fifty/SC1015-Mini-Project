@@ -31,7 +31,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
     - [S-ARIMAX model file: SARIMAX.ipynb]()
     - [Hyperparameters Tuning using Grid search](#hyperparameters-tuning-with-grid-search-for-s-arimax)
     - [Obtaining Test Data S-ARIMAX](#obtaining-test-data-s-arimax)
-    - [Future Price Prediction](#future-prediction-with-s-arimax)
+    - [Future Prediction using the S-ARIMAX model](#future-prediction-with-s-arimax)
 - [Insights, Observations and Conclusion](#insights-observations-and-conclusion)
 - [Challenges faced](#challenges-faced)
 - [Out-of-classroom implementations](#out-of-classroom-implementations)
@@ -81,17 +81,17 @@ For any queries related to this project , please refer to [Disclaimer](#disclaim
 
 ## Obtaining Test Data S-ARIMAX
 
-## Future Prediction using the ARIMA model
+## Future Prediction with ARIMA Model
 
 ## S-ARIMAX Introduction
 
 ## S-ARIMAX model file: SARIMAX.ipynb]()
 
-## Hyperparameters Tuning using Grid search
+## Hyperparameters Tuning using Grid Search
 
 ## Obtaining Test Data S-ARIMAX
 
-## Future Price Prediction
+## Future Prediction with S-ARIMAX Model
 
 
 
