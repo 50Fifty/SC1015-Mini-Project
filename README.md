@@ -58,7 +58,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 |----------------------|:----------------------------------------:|----------------|
 |     |                                          |                    |
 |          |                                          |                    |
-|  |                                          |                    |
+|  |                                          |                    |  
+
 For any queries related to this project , please refer to [Disclaimer](#disclaimer) section before sending us an enquiry
 
 # Source code of individual components (in order)
