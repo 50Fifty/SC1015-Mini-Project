@@ -53,6 +53,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 
 # Contributors
+> For any queries related to this project , please refer to [Disclaimer](#disclaimer) section before sending us an enquiry
 
 | Name                  |              Area of Focus               |    Telegram handle |
 |----------------------|:----------------------------------------:|----------------|
@@ -60,7 +61,6 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 |          |                                          |                    |
 |  |                                          |                    |  
 
-For any queries related to this project , please refer to [Disclaimer](#disclaimer) section before sending us an enquiry
 
 # Source code of individual components (in order)
 `Please Install all relevant dependencies and libraries required for EACH individual components`
