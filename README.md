@@ -27,11 +27,11 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
     - [Hyperparameters Tuning using Grid search for ARIMA](#hyperparameters-tuning-using-grid-search-for-arima)
     - [Obtaining Test Data](#obtaining-test-data-arima)
     - [Future Prediction using ARIMA model](#future-prediction-with-arima-model)
-    - [S-ARIMA Introduction](#s-arima-introduction)
-    - [S-ARIMA model file: SARIMA.ipynb]()
-    - [Hyperparameters Tuning using Grid search](#hyperparameters-tuning-using-grid-search-for-s-arima)
-    - [Obtaining Test Data S-ARIMAX](#obtaining-test-data-s-arima)
-    - [Future Prediction using S-ARIMAX model](#future-prediction-with-s-arima-model)
+    - [SARIMA Introduction](#s-arima-introduction)
+    - [SARIMA model file: SARIMA.ipynb]()
+    - [Hyperparameters Tuning using Grid search for SARIMA](#hyperparameters-tuning-using-grid-search-for-sarima)
+    - [Obtaining Test Data SARIMA](#obtaining-test-data-sarima)
+    - [Future Prediction using SARIMA model](#future-prediction-with-sarima-model)
 - [Insights, Observations and Conclusion](#insights-observations-and-conclusion)
 - [Challenges faced](#challenges-faced)
 - [Out-of-classroom implementations](#out-of-classroom-implementations)
@@ -66,7 +66,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 `Please Install all relevant dependencies and libraries required for EACH individual components`
 1. [EDA](https://github.com/)
 2. [ARIMA Model](https://github.com/)
-3. [S-ARIMA Model](https://github.com/)
+3. [SARIMA Model](https://github.com/)
 4. [Multi-Variate Linear regression](https://github.com/)
 
 # Models used
@@ -80,7 +80,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Hyperparameters Tuning using Grid search for ARIMA
 
-## Obtaining Test Data S-ARIMA
+## Obtaining Test Data SARIMA
 
 ## Future Prediction with ARIMA Model
 
@@ -88,11 +88,11 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## S-ARIMA model file: SARIMA.ipynb]()
 
-## Hyperparameters Tuning using Grid Search for S-ARIMA
+## Hyperparameters Tuning using Grid Search for SARIMA
 
-## Obtaining Test Data S-ARIMA
+## Obtaining Test Data SARIMA
 
-## Future Prediction with S-ARIMA Model
+## Future Prediction with SARIMA Model
 
 
 
