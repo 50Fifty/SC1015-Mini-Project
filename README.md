@@ -165,6 +165,6 @@ N20 dataset can be found [here](https://gml.noaa.gov/ccgg/trends_n2o/)
 - We shall not hold responsibility for any misinformation of data for prediction and modelling, data derived from prediction, and data presented in any form in this project
 - Any part in this repository is and will be subjected to copyright act
 - All datasets, knowledge-based information and additional codes references are credited to their rightful owners under [External links, references & inspirations](#external-links-references--inspirations)
-- Referencing, Redistributing and licensing of this project shall only be for the sole purpose of education purposes
+- Referencing, redistributing and licensing of this project shall only be for the sole purpose of education purposes
 
 You've reached the end of the READ.ME file, click [here](#sc1015-datascience-mini-project-natural-disaster-occurrence-predictions) to return to the top
