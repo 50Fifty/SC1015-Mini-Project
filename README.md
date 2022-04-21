@@ -12,6 +12,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - [Project Motivations](#motivations)
 - [Team members](#contributors)
 - [Source code individual components](#source-code-of-individual-components-in-order)
+- [Machine learning Models Used](#models-used)
+
 - [Dataset Selection & Preparation](#dataset-selection--preparation)
     - [Disaster Dataset](#disaster-dataset)
     - [Temperature Change Dataset](#temperature-change-dataset)
@@ -22,7 +24,6 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
     - [](#)
     - [](#)
     - [](#)
-- [Model Used](#models-used)
 - [Machine Learning - Forecasting models](#machine-learning---forecasting-models)
     - [ARIMA model file: ARIMA.ipynb]()
     - [ARIMA Introduction](#arima-introduction)
