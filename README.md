@@ -8,15 +8,35 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 For any queries related to this project , please refer to [Disclaimer](#disclaimer) section before sending us an enquiry
 
 
-# Table of Cotents
+# Table of Contents
 - [Problem definitions](#problem-definition)
 - [Project Motivations](#motivations)
 - [Team members](#contributors)
-- [Question/Problem Definition](#questionproblem-definition)
 - [Dataset Selection & Preparation](#dataset-selection--preparation)
     - [Kaggle](https://www.kaggle.com/datasets/teyang/singapore-hdb-flat-resale-prices-19902020)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-
+    - [EDA.ipynb]()
+    - [ ]
+    - [](#)
+    - [](#)
+    - [](#)
+- [Model Used](#model-used)
+- [Machine Learning](#machine-learning)
+    - [ARIMA model file: ARIMA.ipynb]()
+    - [ARIMA Introduction](#arima-introduction)
+    - [Hyperparameters Tuning using Grid search for ARIMA](#hyperparameters-tuning-with-grid-search-for-arima)
+    - [Obtaining Test Data](#obtaining-test-data-arima)
+    - [Future Prediction using the ARIMA model](#future-prediction-with-arima)
+    - [S-ARIMAX Introduction](#s-arimax-introduction)
+    - [S-ARIMAX model file: SARIMAX.ipynb]()
+    - [Hyperparameters Tuning using Grid search](#hyperparameters-tuning-with-grid-search-for-s-arimax)
+    - [Obtaining Test Data S-ARIMAX](#obtaining-test-data-s-arimax)
+    - [Future Price Prediction](#future-prediction-with-s-arimax)
+- [Insights of Data & Conclusion](#insights-of-data--conclusion)
+- [Out-of-classroom implementations](#out-of-classroom-implementations)
+- [Closing Remarks](#closing-remarks)
+- [External links, references & inspirations](#external-links-references--inspirations)
+- [Disclaimer](#disclaimer)
 
 
 # Problem definition
@@ -52,6 +72,23 @@ For detailed project walkthrough, please view the source code [below](#source-co
 - Seasonal-ARIMAX (SARIMAX) 
 - Multi-Variate Linear Regression
 
+- [Machine Learning](#machine-learning)
+    - [ARIMA model file: ARIMA.ipynb]()
+    - [ARIMA Introduction](#arima-introduction)
+    - [Hyperparameters Tuning using Grid search for ARIMA](#hyperparameters-tuning-with-grid-search-for-arima)
+    - [Obtaining Test Data](#obtaining-test-data-arima)
+    - [Future Prediction using the ARIMA model](#future-prediction-with-arima)
+    - [S-ARIMAX Introduction](#s-arimax-introduction)
+    - [S-ARIMAX model file: SARIMAX.ipynb]()
+    - [Hyperparameters Tuning using Grid search](#hyperparameters-tuning-with-grid-search-for-s-arimax)
+    - [Obtaining Test Data S-ARIMAX](#obtaining-test-data-s-arimax)
+    - [Future Price Prediction](#future-prediction-with-s-arimax)
+
+
+
+# Insights 
+
+
 # Out-of-classroom implementations
 - Initiating the use of Git-hub and Google Colab for project collaboration and data repository purposes
 - Implementing different visualiztion tools such as world map, 
@@ -66,7 +103,7 @@ For detailed project walkthrough, please view the source code [below](#source-co
 # What did we learn
 
 
-## Conclusion
+# Closing Remarks
 
 
 
@@ -87,3 +124,5 @@ For detailed project walkthrough, please view the source code [below](#source-co
 - Any part in this repository is and will be subjected to copyright act
 - All datasets, knowledge-based information and source codes are credited to their rightful owners under [External links, references & inspirations](#external-links-references--inspirations)
 - Redistribution and licensing of this project shall only be for the sole purpose of education purposes
+
+You've reached the end of the READ.ME file, click [here](#table-of-contents) for the table of contents
