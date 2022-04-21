@@ -126,11 +126,11 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Disclaimer
 - This prediction is **NOT** fine-tuned for 100% accuracy
-- There are many other factors that can affect the occurence rate of Natural disasters in a real world settings
+- There are many other external-factors that are **NOT** accounted for for predicting Natural disasters occurences in a real world settings
 - Data collected in the greenhouse gases datasets might not be complete and accurate
 - We shall not hold responsibility for any misinformation of data for prediction and modelling, data derived from prediction, and data presented in any form in this project
 - Any part in this repository is and will be subjected to copyright act
-- All datasets, knowledge-based information and source codes are credited to their rightful owners under [External links, references & inspirations](#external-links-references--inspirations)
-- Redistribution and licensing of this project shall only be for the sole purpose of education purposes
+- All datasets, knowledge-based information and additional codes references are credited to their rightful owners under [External links, references & inspirations](#external-links-references--inspirations)
+- Referencing, Redistributing and licensing of this project shall only be for the sole purpose of education purposes
 
 You've reached the end of the READ.ME file, click [here](#table-of-contents) for the table of contents
