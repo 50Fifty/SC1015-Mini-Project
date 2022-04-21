@@ -67,5 +67,5 @@ For detailed walkthrough, please view the source code below:
 - Data collected in the greenhouse gases datasets might not be complete and accurate
 - We shall not hold responsibility for any misinformation of data for prediction and modelling, data derived from prediction, and data presented in any form in this project
 - Any part in this repository is and will be subjected to copyright act
-- All datasets, knowledge-based information and source codes are credited to their rightful owners under [(## External links, references & inspirations)]
+- All datasets, knowledge-based information and source codes are credited to their rightful owners under [External links, references & inspirations](## External links, references & inspirations)]
 - Redistribution and licensing of this project shall only be for the sole purpose of education purposes
