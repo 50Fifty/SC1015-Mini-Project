@@ -15,7 +15,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - [Dataset Selection & Preparation](#dataset-selection--preparation)
     - []
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-    - [EDA.ipynb]()
+> [EDA.ipynb]()
     - [ ]
     - [](#)
     - [](#)
