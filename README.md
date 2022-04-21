@@ -74,9 +74,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 4. [Multi-Variate Linear regression](https://github.com/)
 
 # Models used
-- Grid Search ARIMA hyperparameters
-- Seasonal-ARIMA (SARIMA) 
-- Multi-Variate Linear Regression
+- [Grid Search ARIMA hyperparameters](#arima-introduction)
+- [Seasonal-ARIMA (SARIMA)](#sarima-introduction)
+- [Multi-Variate Linear Regression](#multivariate-linear-regression-introduction)
 
 # Machine Learning - Forecasting Models
 ## ARIMA Introduction
