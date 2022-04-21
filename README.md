@@ -133,4 +133,4 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - All datasets, knowledge-based information and additional codes references are credited to their rightful owners under [External links, references & inspirations](#external-links-references--inspirations)
 - Referencing, Redistributing and licensing of this project shall only be for the sole purpose of education purposes
 
-You've reached the end of the READ.ME file, click [here](#table-of-contents) for the table of contents
+You've reached the end of the READ.ME file, click [here](#table-of-contents) to return to table of contents
