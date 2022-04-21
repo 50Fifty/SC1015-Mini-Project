@@ -20,7 +20,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
     - [](#)
     - [](#)
     - [](#)
-- [Model Used](#model-used)
+- [Model Used](#models-used)
 - [Machine Learning - Forecasting models](#machine-learning---forecasting-models)
     - [ARIMA model file: ARIMA.ipynb]()
     - [ARIMA Introduction](#arima-introduction)
