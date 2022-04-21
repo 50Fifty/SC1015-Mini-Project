@@ -23,13 +23,13 @@ For any queries related to this project , please refer to [Disclaimer](#disclaim
 
 
 # Motivations
-`For brief explanation of project walkthrough, please refer to the slides below`
+For brief explanation of project walkthrough, please refer to the slides below
 
-```
+
 Slides: (https://docs.google.com/presentation/d/1J5O34ClllCszNBYHl5l9RQCixlJtVRxFab4xB8KYePg/edit?usp=sharing)
 
 For detailed walkthrough, please view the source code [below](#source-code-of-individual-components--in-order): 
-```
+
 
 
 # Contributors
