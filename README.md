@@ -10,10 +10,12 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 # Table of Contents
 - [Problem definitions](#problem-definition)
 - [Project Motivations](#motivations)
-- [Source code individual components](#source-code-of-individual-components-in-order)
 - [Team members](#contributors)
+- [Source code individual components](#source-code-of-individual-components-in-order)
 - [Dataset Selection & Preparation](#dataset-selection--preparation)
-    - []
+    - [Disaster Dataset](#disaster-dataset)
+    - [Temperature Change Dataset](#temperature-change-dataset)
+    - [Greenhouse Gases Datasets](#greenhouse-gases-datasets)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
     - [EDA.ipynb]()
     - [ ]
@@ -78,6 +80,29 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - [Seasonal-ARIMA (SARIMA)](#sarima-introduction)
 - [Multi-Variate Linear Regression](#multivariate-linear-regression-introduction)
 
+
+# Dataset Selection & Preparation
+
+## Disaster Dataset
+Disaster dataset can be found [here](https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis)
+
+## Temperature Change Dataset
+Temperature change dataset can be found [here](https://data.giss.nasa.gov/gistemp/)
+
+## Greenhouse Gases Datasets
+C02 dataset can be found [here](https://gml.noaa.gov/ccgg/trends/data.html)
+CH4 dataset can be found [here](https://gml.noaa.gov/ccgg/trends_ch4/)
+N20 dataset can be found [here](https://gml.noaa.gov/ccgg/trends_n2o/)
+
+#Exploratory Data Analysis](#exploratory-data-analysis)
+    - [EDA.ipynb]()
+    - [ ]
+    - [](#)
+    - [](#)
+    - [](#)
+
+
+
 # Machine Learning - Forecasting Models
 ## ARIMA Introduction
 [ARIMA model file]:(ARIMA.ipynb)
@@ -129,7 +154,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - CH4 dataset: https://gml.noaa.gov/ccgg/trends_ch4/
 - N20 dataset: https://gml.noaa.gov/ccgg/trends_n2o/
 - Presentation Slides: https://docs.google.com/presentation/d/1J5O34ClllCszNBYHl5l9RQCixlJtVRxFab4xB8KYePg/edit?usp=sharing
-
+- Climate Change indicators: https://www.epa.gov/climate-indicators/greenhouse-gases#:~:text=An%20increase%20in%20the%20atmospheric,atmosphere%20increased%20by%2045%20percent.
+- Greenhouse gases: https://www.epa.gov/ghgemissions/overview-greenhouse-gases
 
 ## Disclaimer
 - This prediction is **NOT** fine-tuned for 100% accuracy
