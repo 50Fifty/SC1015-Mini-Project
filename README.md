@@ -21,14 +21,14 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
     - [](#)
     - [](#)
 - [Model Used](#model-used)
-- [Machine Learning](#machine-learning)
+- [Machine Learning - Forecasting models](#machine-learning-forecasting-models)
     - [ARIMA model file: ARIMA.ipynb]()
     - [ARIMA Introduction](#arima-introduction)
     - [Hyperparameters Tuning using Grid search for ARIMA](#hyperparameters-tuning-using-grid-search-for-arima)
     - [Obtaining Test Data](#obtaining-test-data-arima)
     - [Future Prediction using ARIMA model](#future-prediction-with-arima-model)
     - [S-ARIMAX Introduction](#s-arimax-introduction)
-    - [S-ARIMAX model file: SARIMAX.ipynb]()
+    - [S-ARIMAX model file: SARIMA.ipynb]()
     - [Hyperparameters Tuning using Grid search](#hyperparameters-tuning-using-grid-search-for-s-arimax)
     - [Obtaining Test Data S-ARIMAX](#obtaining-test-data-s-arimax)
     - [Future Prediction using S-ARIMAX model](#future-prediction-with-s-arimax-model)
@@ -74,25 +74,25 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - Seasonal-ARIMAX (SARIMAX) 
 - Multi-Variate Linear Regression
 
-# Machine Learning 
+# Machine Learning - Forecasting Models
 ## ARIMA Introduction
 [ARIMA model file]:(ARIMA.ipynb)
 
 ## Hyperparameters Tuning using Grid search for ARIMA
 
-## Obtaining Test Data S-ARIMAX
+## Obtaining Test Data S-ARIMA
 
 ## Future Prediction with ARIMA Model
 
-## S-ARIMAX Introduction
+## S-ARIMA Introduction
 
-## S-ARIMAX model file: SARIMAX.ipynb]()
+## S-ARIMA model file: SARIMA.ipynb]()
 
-## Hyperparameters Tuning using Grid Search for S-ARIMAX
+## Hyperparameters Tuning using Grid Search for S-ARIMA
 
-## Obtaining Test Data S-ARIMAX
+## Obtaining Test Data S-ARIMA
 
-## Future Prediction with S-ARIMAX Model
+## Future Prediction with S-ARIMA Model
 
 
 
