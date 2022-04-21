@@ -27,11 +27,15 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
     - [Hyperparameters Tuning using Grid search for ARIMA](#hyperparameters-tuning-using-grid-search-for-arima)
     - [Obtaining Test Data](#obtaining-test-data-arima)
     - [Future Prediction using ARIMA model](#future-prediction-with-arima-model)
-    - [SARIMA Introduction](#s-arima-introduction)
+    - [SARIMA Introduction](#sarima-introduction)
     - [SARIMA model file: SARIMA.ipynb]()
     - [Hyperparameters Tuning using Grid search for SARIMA](#hyperparameters-tuning-using-grid-search-for-sarima)
     - [Obtaining Test Data SARIMA](#obtaining-test-data-sarima)
     - [Future Prediction using SARIMA model](#future-prediction-with-sarima-model)
+- [Machine Learning - Regression model](#machine-learning---regression-model)
+    - [Multivariate Linear Regression Introduction](#multivariate-linear-regression-introduction)
+    - [Obtaining Test Data Multivariate Linear Regression](#obtaining-test-data-multivariate-linear-regression)
+    - [Future prediction of Natural Disasters](#future-prediction-of-natural-disasters)
 - [Insights, Observations and Conclusion](#insights-observations-and-conclusion)
 - [Challenges faced](#challenges-faced)
 - [Out-of-classroom implementations](#out-of-classroom-implementations)
@@ -84,15 +88,18 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Future Prediction with ARIMA Model
 
-## S-ARIMA Introduction
+## SARIMA Introduction
 
-## S-ARIMA model file: SARIMA.ipynb]()
+## SARIMA model file: SARIMA.ipynb]()
 
 ## Hyperparameters Tuning using Grid Search for SARIMA
 
 ## Obtaining Test Data SARIMA
 
 ## Future Prediction with SARIMA Model
+
+# Machine Learning - Regression model
+## Multivariate Linear Regression Introduction
 
 
 
