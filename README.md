@@ -29,9 +29,9 @@ For detailed walkthrough, please view the source code below:
 
 | Name                  |              Area of Focus               |    Telegram handle |
 |----------------------|:----------------------------------------:|----------------|
-| Karishein Chandran    | Video Presentation, Kaggle Dataset, EDA  |                    |
+| Karishein Chandran    |                                          |                    |
 | Foo Jen Sean          |                                          |                    |
-| Jeffrey Lim Yi Ren    | Google Slides,                           |                    |
+| Jeffrey Lim Yi Ren    |                                          |                    |
 
 
 ## Models used
