@@ -23,12 +23,11 @@ For any queries related to this project , please refer to [Disclaimer](#disclaim
 
 
 # Motivations
-For brief explanation of project walkthrough, please refer to the slides below
 
 
-Slides: (https://docs.google.com/presentation/d/1J5O34ClllCszNBYHl5l9RQCixlJtVRxFab4xB8KYePg/edit?usp=sharing)
 
-For detailed walkthrough, please view the source code [below](#source-code-of-individual-components--in-order): 
+For brief explanation of project walkthrough, please refer to the slides [below](#external-links-references--inspirations)
+For detailed project walkthrough, please view the source code [below](#source-code-of-individual-components--in-order)
 
 
 
@@ -77,6 +76,7 @@ For detailed walkthrough, please view the source code [below](#source-code-of-in
 - C02 dataset: https://gml.noaa.gov/ccgg/trends/data.html
 - CH4 dataset: https://gml.noaa.gov/ccgg/trends_ch4/
 - N20 dataset: https://gml.noaa.gov/ccgg/trends_n2o/
+- Presentation Slides: https://docs.google.com/presentation/d/1J5O34ClllCszNBYHl5l9RQCixlJtVRxFab4xB8KYePg/edit?usp=sharing
 
 
 ## Disclaimer
