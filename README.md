@@ -26,9 +26,12 @@ For detailed walkthrough, please view the source code below:
 5. [Information Presentation](https://github.com/)
 
 ## Contributors
-- Foo Jen Sean:
-- Karishein Chandran:
-- Jeffrey Lim Yi Ren:
+
+| Name                  |              Area of Focus               |    Telegram handle |
+|-Karishein Chandran    | Video Presentation, Kaggle Dataset, EDA  |                    |
+| Foo Jen Sean          |                                          |                    |
+| Jeffrey Lim Yi Ren    | Google Slides,                           |                    |
+
 
 ## Models used
 - Grid Search ARIMA hyperparameters
