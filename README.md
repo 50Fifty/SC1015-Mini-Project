@@ -7,23 +7,30 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 For any queries related to this project , please refer to [Disclaimer](#disclaimer) section before sending us an enquiry
 
+
+# Table of Cotents
+- [Problem definitions](#problem-definition)
+- [Project Motivations](#motivations)
+- [Team members](#contributors)
+- [Question/Problem Definition](#questionproblem-definition)
+- [Dataset Selection & Preparation](#dataset-selection--preparation)
+    - [Kaggle](https://www.kaggle.com/datasets/teyang/singapore-hdb-flat-resale-prices-19902020)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+
+
+
 # Problem definition
 
-# Motivations
 
+# Motivations
+`For brief explanation of project walkthrough, please refer to the slides below`
 
 ```
 Slides: (https://docs.google.com/presentation/d/1J5O34ClllCszNBYHl5l9RQCixlJtVRxFab4xB8KYePg/edit?usp=sharing)
-`For detailed walkthrough, please view the source code below:` 
+
+For detailed walkthrough, please view the source code [below](#source-code-of-individual-components--in-order): 
 ```
 
-# Source code of individual components (in order)
-(**Please Install all relevant dependencies and libraries required for EACH individual components**)
-1. [EDA](https://github.com/)
-2. [Prediction and Modelling](https://github.com/)
-3. [Analytic Visualisation](https://github.com/)
-4. [Algorithmic Optimisation](https://github.com/)
-5. [Information Presentation](https://github.com/)
 
 # Contributors
 
@@ -33,6 +40,13 @@ Slides: (https://docs.google.com/presentation/d/1J5O34ClllCszNBYHl5l9RQCixlJtVRx
 | Foo Jen Sean          |                                          |                    |
 | Jeffrey Lim Yi Ren    |                                          |                    |
 
+# Source code of individual components (in order)
+(**Please Install all relevant dependencies and libraries required for EACH individual components**)
+1. [EDA](https://github.com/)
+2. [Prediction and Modelling](https://github.com/)
+3. [Analytic Visualisation](https://github.com/)
+4. [Algorithmic Optimisation](https://github.com/)
+5. [Information Presentation](https://github.com/)
 
 # Models used
 - Grid Search ARIMA hyperparameters
@@ -57,7 +71,7 @@ Slides: (https://docs.google.com/presentation/d/1J5O34ClllCszNBYHl5l9RQCixlJtVRx
 
 
 
-## External links, references & inspirations
+# External links, references & inspirations
 - Disaster dataset: https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis
 - Temperature dataset: https://data.giss.nasa.gov/gistemp/
 - C02 dataset: https://gml.noaa.gov/ccgg/trends/data.html
