@@ -1,7 +1,7 @@
-# SC1015 Datascience Mini-project: Predicting Frequency of Natural Disasters
+# SC1015 Datascience Mini-project: Estimating Frequency of Natural Disasters
 
 ## About
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on making predictions on the likelihood of natural disasters occuring based on the changes in our climate such as the rise in greenhouse gases emissions and temperature. 
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on making estimations on the likelihood of natural disasters occuring based on the changes in our climate such as the rise in greenhouse gases emissions and temperature. 
 
 ![image](https://github.com/Dumbledore66/Mini-Project/blob/main/Project%20cover%20page.png)
 
@@ -133,7 +133,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Disclaimer
 - This prediction is **NOT** fine-tuned for 100% accuracy
-- There are many other external-factors that are **NOT** accounted for for predicting the frequency of Natural disasters in a real world settings
+- There are many other external-factors that are **NOT** accounted for for estimating the frequency of Natural disasters in a real world settings
 - Data collected in the greenhouse gases datasets might not be complete and accurate
 - We shall not hold responsibility for any misinformation of data for prediction and modelling, data derived from prediction, and data presented in any form in this project
 - Any part in this repository is and will be subjected to copyright act
