@@ -1,6 +1,6 @@
 # SC1015 Datascience Mini-project: Natural Disaster Occurrence Predictions
 
-# About
+## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on making predictions on the likelihood of natural disasters occuring based on the change in our climate.
 
 ![image](https://github.com/Dumbledore66/Mini-Project/blob/main/Project%20cover%20page.png)
