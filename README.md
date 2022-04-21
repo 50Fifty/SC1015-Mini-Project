@@ -40,7 +40,7 @@ For detailed project walkthrough, please view the source code [below](#source-co
 | Jeffrey Lim Yi Ren    |                                          |                    |
 
 # Source code of individual components (in order)
-`**Please Install all relevant dependencies and libraries required for EACH individual components**`
+`Please Install all relevant dependencies and libraries required for EACH individual components`
 1. [EDA](https://github.com/)
 2. [Prediction and Modelling](https://github.com/)
 3. [Analytic Visualisation](https://github.com/)
