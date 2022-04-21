@@ -1,22 +1,23 @@
 # SC1015 Datascience Mini-project: Natural Disaster Occurrence Predictions
-## About
+
+# About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on making predictions on the likelihood of natural disasters occuring based on the change in our climate.
 
 ![image](https://github.com/Dumbledore66/Mini-Project/blob/main/Project%20cover%20page.png)
 
 For any queries related to this project , please refer to [Disclaimer](#disclaimer) section before sending us an enquiry
 
-## Problem definition
+# Problem definition
 
-## Motivations
-
-
-
-(https://docs.google.com/presentation/d/1J5O34ClllCszNBYHl5l9RQCixlJtVRxFab4xB8KYePg/edit?usp=sharing)
-For detailed walkthrough, please view the source code below: 
+# Motivations
 
 
-## Source code of individual components (in order)
+```
+Slides: (https://docs.google.com/presentation/d/1J5O34ClllCszNBYHl5l9RQCixlJtVRxFab4xB8KYePg/edit?usp=sharing)
+`For detailed walkthrough, please view the source code below:` 
+```
+
+# Source code of individual components (in order)
 (**Please Install all relevant dependencies and libraries required for EACH individual components**)
 1. [EDA](https://github.com/)
 2. [Prediction and Modelling](https://github.com/)
@@ -24,7 +25,7 @@ For detailed walkthrough, please view the source code below:
 4. [Algorithmic Optimisation](https://github.com/)
 5. [Information Presentation](https://github.com/)
 
-## Contributors
+# Contributors
 
 | Name                  |              Area of Focus               |    Telegram handle |
 |----------------------|:----------------------------------------:|----------------|
@@ -33,23 +34,23 @@ For detailed walkthrough, please view the source code below:
 | Jeffrey Lim Yi Ren    |                                          |                    |
 
 
-## Models used
+# Models used
 - Grid Search ARIMA hyperparameters
 - Seasonal-ARIMAX (SARIMAX) 
 - Multi-Variate Linear Regression
 
-## Out-of-classroom implementations
+# Out-of-classroom implementations
 - Initiating the use of Git-hub and Google Colab for project collaboration and data repository purposes
 - Implementing different visualiztion tools such as world map, 
 - Implementing and choosing a right forecasting models
 - Implementing Multi-Variate linear regression model
 
-## Challenges faced
+# Challenges faced
 - Greenhouse gases datasets have different starting year datapoints
 - Temperature change datasets 
 - Disasters datasets 
 
-## What did we learn
+# What did we learn
 
 
 ## Conclusion
@@ -64,7 +65,7 @@ For detailed walkthrough, please view the source code below:
 - N20 dataset: https://gml.noaa.gov/ccgg/trends_n2o/
 
 
-#### Disclaimer
+## Disclaimer
 - This prediction is **NOT** fine-tuned for 100% accuracy
 - There are many other factors that can affect the occurence rate of Natural disasters in a real world settings
 - Data collected in the greenhouse gases datasets might not be complete and accurate
