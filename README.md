@@ -100,8 +100,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 # Machine Learning - Regression model
 ## Multivariate Linear Regression Introduction
-
-
+## Obtaining Test Data Multivariate Linear Regression
+## Future prediction of Natural Disasters
 
 # Insights, Observations and Conclusion
 
