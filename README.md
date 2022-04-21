@@ -47,7 +47,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 
 
-> For brief explanation of project walkthrough, please refer to the slides [below](#external-links-references--inspirations)  
+> For brief project walkthrough, please refer to the slides [below](#external-links-references--inspirations)  
 > For detailed project walkthrough, please view the source code [below](#source-code-of-individual-components-in-order)
 
 
@@ -106,10 +106,10 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - 
 # Out-of-classroom implementations
 - Initiating the use of Git-hub and Google Colab for project collaboration and data repository purposes
-- Implementing different visualiztion tools such as world map, 
-- Implementing and choosing a right forecasting models
+- Implementing different visualiztion tools such as geopandas, stacked bar graph,  
+- Implementing ARIMA forecasting model with Grid search hyperparameters tuning
+- Implementing SARIMA forecasting model with Grid search hyperparameters tuning
 - Implementing Multi-Variate linear regression model
-
 
 # Closing Remarks
 
