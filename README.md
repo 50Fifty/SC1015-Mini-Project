@@ -21,8 +21,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - [Project Motivations](#motivations)
 <!-- - [Team members](#contributors) -->
 - [Source code individual components](#source-code-of-individual-components-in-order)
-- [Machine learning Models Used](#models-used)
-
+- [Machine Learning Process](#machine-learning-process)
 - [Dataset Selection & Preparation](#dataset-selection--preparation)
     - [Disaster Dataset](#disaster-dataset)
     - [Temperature Change Dataset](#temperature-change-dataset)
@@ -76,7 +75,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 3. [SARIMA Model](https://github.com/)
 4. [Multi-Variate Linear regression](https://github.com/)
 
-# Models used
+# Machine Learning Process
+<< Insert Image >>
 - [Grid Search ARIMA hyperparameters](#arima-introduction)
 - [Seasonal-ARIMA (SARIMA)](#sarima-introduction)
 - [Multi-Variate Linear Regression](#multivariate-linear-regression-introduction)
