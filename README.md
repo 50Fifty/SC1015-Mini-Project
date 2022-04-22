@@ -138,10 +138,10 @@ N20 dataset can be found [here](https://gml.noaa.gov/ccgg/trends_n2o/)
 - Disasters datasets 
 - 
 # Out-of-classroom implementations
-- Initiating the use of Git-hub and Google Colab for project collaboration and data repository purposes
+- Initiating the use of Git-hub and Google Collab for project collaboration and data repository purposes
 - Implementing different visualiztion tools such as geopandas, stacked bar graph,  
-- Implementing ARIMA forecasting model with Grid search hyperparameters tuning
-- Implementing SARIMA forecasting model with Grid search hyperparameters tuning
+- Implementing ARIMA forecasting model with grid search hyperparameters tuning
+- Implementing SARIMA forecasting model with grid search hyperparameters tuning
 - Implementing Multi-Variate linear regression model
 
 # Closing Remarks
