@@ -147,21 +147,21 @@ Does the **increase of greenhouse gases** in our climate contribute to a more im
 - 
 ## Out-of-classroom implementations
 - Initiating the use of Git-hub and Google Collab for project collaboration and data repository purposes
-- Implementing different visualiztion tools such as geopandas, stacked bar graph,  
+- Implementing different visualisation tools such as geopandas, stacked bar graph
 - Implementing ARIMA forecasting model with grid search hyperparameters tuning
 - Implementing SARIMA forecasting model with grid search hyperparameters tuning
-- Implementing Multi-Variate linear regression model
+- Implementing Multivariate Linear Regression model
 
 ## Closing Remarks
 
 
 
 ## External links, references & inspirations
-- Disaster dataset: https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis
+<!-- - Disaster dataset: https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis
 - Temperature dataset: https://data.giss.nasa.gov/gistemp/
 - C02 dataset: https://gml.noaa.gov/ccgg/trends/data.html
 - CH4 dataset: https://gml.noaa.gov/ccgg/trends_ch4/
-- N20 dataset: https://gml.noaa.gov/ccgg/trends_n2o/
+- N20 dataset: https://gml.noaa.gov/ccgg/trends_n2o/ -->
 - Presentation Slides: https://docs.google.com/presentation/d/1J5O34ClllCszNBYHl5l9RQCixlJtVRxFab4xB8KYePg/edit?usp=sharing
 - Climate Change indicators: https://www.epa.gov/climate-indicators/greenhouse-gases#:~:text=An%20increase%20in%20the%20atmospheric,atmosphere%20increased%20by%2045%20percent.
 - Greenhouse gases: https://www.epa.gov/ghgemissions/overview-greenhouse-gases
