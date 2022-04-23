@@ -91,7 +91,7 @@ Generalised Equation
 
 
 ## External Links, References & Inspirations
-- Presentation Slides: https://docs.google.com/presentation/d/1J5O34ClllCszNBYHl5l9RQCixlJtVRxFab4xB8KYePg/edit?usp=sharing
+- Presentation Slides (no audio) : https://docs.google.com/presentation/d/1J5O34ClllCszNBYHl5l9RQCixlJtVRxFab4xB8KYePg/edit?usp=sharing
 - Climate Change indicators: https://www.epa.gov/climate-indicators/greenhouse-gases#:~:text=An%20increase%20in%20the%20atmospheric,atmosphere%20increased%20by%2045%20percent.
 - Greenhouse gases: https://www.epa.gov/ghgemissions/overview-greenhouse-gases
 - ARIMA: https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/
