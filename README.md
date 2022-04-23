@@ -73,7 +73,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 1. [EDA](https://github.com/)
 2. [ARIMA Model](https://github.com/)
 3. [SARIMA Model](https://github.com/)
-4. [Multi-Variate Linear regression](https://github.com/)
+4. [Multi-Variate Linear Regression](https://github.com/)
 
 # Machine Learning Process
 << Insert Image >>
