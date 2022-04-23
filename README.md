@@ -26,7 +26,7 @@ Does the **increase of greenhouse gases** in our climate contribute to a more im
 > For detailed project walkthrough, please view the source code [below](#source-code-of-individual-components-in-order)
 
 
-## Source code of individual components (in order)
+## Source Code of Individual Components (in order)
 `Please Install all relevant dependencies and libraries required for EACH individual components`
 1. [EDA](https://github.com/Dumbledore66/Mini-Project/blob/main/SC1015_Mini_Project_EDA.ipynb)
 2. [ARIMA Model](https://github.com/)
