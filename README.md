@@ -1,4 +1,4 @@
-# SC1015 Datascience Mini-project: Estimating Frequency of Natural Disasters
+# SC1015 Datascience Mini-Project: Estimating Frequency of Natural Disasters With Machine Learning
 
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on making estimations on the likelihood of natural disasters occuring based on the changes in our climate such as the rise in greenhouse gases emissions and temperature. 
