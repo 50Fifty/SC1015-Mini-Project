@@ -1,6 +1,6 @@
-# SC1015 Datascience Mini-Project: Estimating Frequency of Natural Disasters With Machine Learning
+# SC1015 Data Science Mini-Project: Estimating Frequency of Natural Disasters With Machine Learning
 
-## About
+## About:
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on making estimations on the likelihood of natural disasters occuring based on the changes in our climate such as the rise in greenhouse gases emissions and temperature. 
 
 <!-- ![image](https://github.com/Dumbledore66/Mini-Project/blob/main/Project%20cover%20page.png) -->
@@ -8,7 +8,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 
 
-## Contributors
+## Contributors:
 > For any queries related to this project , please refer to [Disclaimer](#disclaimer) section before sending us an enquiry
 
 | Name                  |              Area of Focus               |    Telegram handle |
@@ -57,10 +57,10 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - [Disclaimer](#disclaimer) -->
 
 
-## Problem Definition
+## Problem Definition:
 Does the **increase of greenhouse gases** in our climate contribute to a more immediate and imminent problem such as **Natural Disasters**?
 
-## Motivations
+## Motivations:
 
 
 
@@ -68,14 +68,14 @@ Does the **increase of greenhouse gases** in our climate contribute to a more im
 > For detailed project walkthrough, please view the source code [below](#source-code-of-individual-components-in-order)
 
 
-## Source code of individual components (in order)
+## Source code of individual components (in order):
 `Please Install all relevant dependencies and libraries required for EACH individual components`
 1. [EDA](https://github.com/)
 2. [ARIMA Model](https://github.com/)
 3. [SARIMA Model](https://github.com/)
 4. [Multi-Variate Linear Regression](https://github.com/)
 
-## Dataset Selection & Preparation
+## Datasets Used:
 
 ### Disaster Dataset (Kaggle - Baris Dincer):
 [ALL NATURAL DISASTERS 1900-2021 / EOSDIS](https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis)
