@@ -107,9 +107,15 @@ N20 dataset can be found [here](https://gml.noaa.gov/ccgg/trends_n2o/)
 # Machine Learning - Forecasting Models
 
 ## Machine Learning Process
-![ARIMA](https://user-images.githubusercontent.com/91188372/164865849-edc2770f-8446-4da4-be3d-aead2c4c9660.jpg)
+
 
 ## ARIMA Introduction
+![ARIMA](https://user-images.githubusercontent.com/91188372/164865849-edc2770f-8446-4da4-be3d-aead2c4c9660.jpg)
+The ARIMA Model consists of 3 components
+Autoregression (AR): refers to a model that shows a changing variable that regresses on its own lagged, or prior, values.
+Integrated (I): represents the differencing of raw observations to allow for the time series to become stationary (i.e., data values are replaced by the difference between the data values and the previous values).
+Moving average (MA):  incorporates the dependency between an observation and a residual error from a moving average model applied to lagged observations.
+![image](https://user-images.githubusercontent.com/91188372/164865881-4f3d6551-2712-4027-b7e1-94fbb38fa3c8.png)
 
 ## [ARIMA model file]:(ARIMA.ipynb)
 
