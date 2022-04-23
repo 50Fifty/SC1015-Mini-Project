@@ -30,7 +30,7 @@ Does the **increase of greenhouse gases** in our climate contribute to a more im
 1. [EDA](https://github.com/Dumbledore66/Mini-Project/blob/main/Source%20Codes/SC1015_Mini_Project_EDA.ipynb)
 2. [ARIMA Model](https://github.com/Dumbledore66/Mini-Project/blob/main/Source%20Codes/SC1015_Mini_Project_ARIMA.ipynb)
 3. [SARIMA Model](https://github.com/Dumbledore66/Mini-Project/blob/main/Source%20Codes/SC1015_Mini_Project_SARIMA.ipynb)
-4. [Multi-Variate Linear Regression](https://github.com/)
+4. [Multi-Variate Linear Regression](https://github.com/Dumbledore66/Mini-Project/blob/main/Source%20Codes/SC1015_Mini_Project_MVLR.ipynb)
 
 > [Full Jupyter Notebook](https://github.com/Dumbledore66/Mini-Project/blob/main/Source%20Codes/SC1015_Mini_Project_FULL.ipynb)  
 
