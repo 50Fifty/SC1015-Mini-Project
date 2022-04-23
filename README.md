@@ -175,4 +175,4 @@ Does the **increase of greenhouse gases** in our climate contribute to a more im
 - All datasets, knowledge-based information and additional codes references are credited to their rightful owners under [External links, references & inspirations](#external-links-references--inspirations)
 - Referencing, redistributing and licensing of this project shall only be for the sole purpose of education purposes
 
-You've reached the end of the READ.ME file, click [here](#sc1015-datascience-mini-project-estimating-frequency-of-natural-disasters) to return to the top
+You've reached the end of the READ.ME file, click [here](#sc1015-datascience-mini-project-estimating-frequency-of-natural-disasters-with-machine-learning) to return to the top
