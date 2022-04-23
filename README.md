@@ -26,11 +26,12 @@ Does the **increase of greenhouse gases** in our climate contribute to a more im
 > For detailed project walkthrough, please view the [source code](https://github.com/Dumbledore66/Mini-Project/tree/main/Source%20Codes)
 
 ## Source Code of Individual Components (in order)
+For a quick glance:
 `Please Install all relevant dependencies and libraries required for EACH individual components`
 1. [EDA](https://github.com/Dumbledore66/Mini-Project/blob/main/Source%20Codes/SC1015_Mini_Project_EDA.ipynb)
 2. [ARIMA Model](https://github.com/Dumbledore66/Mini-Project/blob/main/Source%20Codes/SC1015_Mini_Project_ARIMA.ipynb)
 3. [SARIMA Model](https://github.com/Dumbledore66/Mini-Project/blob/main/Source%20Codes/SC1015_Mini_Project_SARIMA.ipynb)
-4. [Multi-Variate Linear Regression](https://github.com/Dumbledore66/Mini-Project/blob/main/Source%20Codes/SC1015_Mini_Project_MVLR.ipynb)
+4. [Multivariate Linear Regression](https://github.com/Dumbledore66/Mini-Project/blob/main/Source%20Codes/SC1015_Mini_Project_MVLR.ipynb)
 
 > [Full Jupyter Notebook](https://github.com/Dumbledore66/Mini-Project/blob/main/Source%20Codes/SC1015_Mini_Project_FULL.ipynb)  
 
