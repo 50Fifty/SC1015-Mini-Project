@@ -52,6 +52,13 @@ Does the **increase of greenhouse gases** in our climate contribute to a more im
 - Seasonal-ARIMA (SARIMA)
 - Multi-Variate Linear Regression
 
+## ARIMA 
+Generalised Forecasting Equation
+``` ŷt   =   μ + ϕ1 yt-1 +…+ ϕp yt-p - θ1et-1 -…- θqet-q ```  
+
+
+## SARIMA 
+Generalised Equation 
 ### Our ML Process:
 ![Machine Learning Process](https://user-images.githubusercontent.com/91188372/164874761-4dfe0cb3-2647-4771-88ce-6a4150f915a7.JPG)
 
@@ -87,6 +94,8 @@ Does the **increase of greenhouse gases** in our climate contribute to a more im
 - Presentation Slides: https://docs.google.com/presentation/d/1J5O34ClllCszNBYHl5l9RQCixlJtVRxFab4xB8KYePg/edit?usp=sharing
 - Climate Change indicators: https://www.epa.gov/climate-indicators/greenhouse-gases#:~:text=An%20increase%20in%20the%20atmospheric,atmosphere%20increased%20by%2045%20percent.
 - Greenhouse gases: https://www.epa.gov/ghgemissions/overview-greenhouse-gases
+- ARIMA: https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/
+- ARIMA: https://otexts.com/fpp2/arima.html
 
 ## Disclaimer
 - This prediction is **NOT** fine-tuned for 100% accuracy
