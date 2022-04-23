@@ -14,7 +14,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 | Name                  |              Area of Focus               |    Telegram handle |
 |----------------------|:----------------------------------------:|----------------|
 | Foo Jen Sean | ARIMA, Multivariate Linear Regression | @mediumsean |
-| Jeffrey Lim Yi Ren |  |  |
+| Jeffrey Lim Yi Ren | Slides, Dataset sourcing | @jeffreylyr  |
 | Karishein Chandran |  |  |  
 
 
@@ -68,12 +68,12 @@ Does the **increase of greenhouse gases** in our climate contribute to a more im
 > For detailed project walkthrough, please view the source code [below](#source-code-of-individual-components-in-order)
 
 
-<!-- ## Source code of individual components (in order)
+## Source code of individual components (in order)
 `Please Install all relevant dependencies and libraries required for EACH individual components`
 1. [EDA](https://github.com/)
 2. [ARIMA Model](https://github.com/)
 3. [SARIMA Model](https://github.com/)
-4. [Multi-Variate Linear Regression](https://github.com/) -->
+4. [Multi-Variate Linear Regression](https://github.com/)
 
 ## Dataset Selection & Preparation
 
