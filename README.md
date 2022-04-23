@@ -1,6 +1,6 @@
 # SC1015 Data Science Mini-Project: Estimating Frequency of Natural Disasters With Machine Learning
 
-## About:
+## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on making estimations on the likelihood of natural disasters occuring based on the changes in our climate such as the rise in greenhouse gases emissions and temperature. 
 
 <!-- ![image](https://github.com/Dumbledore66/Mini-Project/blob/main/Project%20cover%20page.png) -->
@@ -8,7 +8,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 
 
-## Contributors:
+## Contributors
 > For any queries related to this project , please refer to [Disclaimer](#disclaimer) section before sending us an enquiry
 
 | Name                  |              Area of Focus               |    Telegram handle |
@@ -17,65 +17,23 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 | Jeffrey Lim Yi Ren | Slides, Dataset Sourcing, Github repository | @jeffreylyr  |
 | Karishein Chandran |  |  |  
 
-
-<!-- ## Table of Contents
-- [Problem Definitions](#problem-definition)
-- [Project Motivations](#motivations)
-- [Team members](#contributors)
-- [Source code individual components](#source-code-of-individual-components-in-order)
-- [Machine Learning Process](#machine-learning-process)
-- [Dataset Selection & Preparation](#dataset-selection--preparation)
-    - [Disaster Dataset](#disaster-dataset)
-    - [Temperature Change Dataset](#temperature-change-dataset)
-    - [Greenhouse Gases Datasets](#greenhouse-gases-datasets)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-    - [EDA.ipynb]()
-    - [ ]
-    - [](#)
-    - [](#)
-    - [](#)
-- [Machine Learning - Forecasting models](#machine-learning---forecasting-models)
-    - [ARIMA model file: ARIMA.ipynb]()
-    - [ARIMA Introduction](#arima-introduction)
-    - [Hyperparameters Tuning using Grid search for ARIMA](#hyperparameters-tuning-using-grid-search-for-arima)
-    - [Obtaining Test Data ARIMA](#obtaining-test-data-arima)
-    - [Future Prediction using ARIMA model](#future-prediction-with-arima-model)
-    - [SARIMA Introduction](#sarima-introduction)
-    - [SARIMA model file: SARIMA.ipynb]()
-    - [Hyperparameters Tuning using Grid search for SARIMA](#hyperparameters-tuning-using-grid-search-for-sarima)
-    - [Obtaining Test Data SARIMA](#obtaining-test-data-sarima)
-    - [Future Prediction using SARIMA model](#future-prediction-with-sarima-model)
-- [Machine Learning - Regression model](#machine-learning---regression-model)
-    - [Multivariate Linear Regression Introduction](#multivariate-linear-regression-introduction)
-    - [Obtaining Test Data Multivariate Linear Regression](#obtaining-test-data-multivariate-linear-regression)
-    - [Future prediction of Natural Disasters](#future-prediction-of-natural-disasters)
-- [Insights, Observations and Conclusion](#insights-observations-and-conclusion)
-- [Challenges faced](#challenges-faced)
-- [Out-of-classroom implementations](#out-of-classroom-implementations)
-- [Closing Remarks](#closing-remarks)
-- [External links, references & inspirations](#external-links-references--inspirations)
-- [Disclaimer](#disclaimer) -->
-
-
-## Problem Definition:
+## Problem Definition
 Does the **increase of greenhouse gases** in our climate contribute to a more immediate and imminent problem such as **Natural Disasters**?
 
-## Motivations:
-
-
+## Motivations
 
 > For brief project walkthrough, please refer to the slides [below](#external-links-references--inspirations)  
 > For detailed project walkthrough, please view the source code [below](#source-code-of-individual-components-in-order)
 
 
-## Source code of individual components (in order):
+## Source code of individual components (in order)
 `Please Install all relevant dependencies and libraries required for EACH individual components`
 1. [EDA](https://github.com/)
 2. [ARIMA Model](https://github.com/)
 3. [SARIMA Model](https://github.com/)
 4. [Multi-Variate Linear Regression](https://github.com/)
 
-## Datasets Used:
+## Datasets Used
 
 ### Disaster Dataset (Kaggle - Baris Dincer):
 [ALL NATURAL DISASTERS 1900-2021 / EOSDIS](https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis)
@@ -97,55 +55,24 @@ Does the **increase of greenhouse gases** in our climate contribute to a more im
 ### Our ML Process:
 ![Machine Learning Process](https://user-images.githubusercontent.com/91188372/164874761-4dfe0cb3-2647-4771-88ce-6a4150f915a7.JPG)
 
-<!-- ## Exploratory Data Analysis](#exploratory-data-analysis)
-    - [EDA.ipynb]()
-    - [ ]
-    - [](#)
-    - [](#)
-    - [](#) -->
-
-
-<!-- 
-## Machine Learning Models Used
-
-1. ARIMA
-2. SARIMA
-3. Multivariate Linear Regression -->
-
-<!-- ### ARIMA Introduction
-
-### [ARIMA model file]:(ARIMA.ipynb)
-
-### Hyperparameters Tuning using Grid search for ARIMA
-
-### Obtaining Test Data ARIMA
-
-### Future Prediction with ARIMA Model
-
-### SARIMA Introduction
-
-### SARIMA model file: SARIMA.ipynb]()
-
-### Hyperparameters Tuning using Grid Search for SARIMA
-
-### Obtaining Test Data SARIMA
-
-### Future Prediction with SARIMA Model
-
-## Machine Learning - Regression model
-### Multivariate Linear Regression Introduction
-### Obtaining Test Data Multivariate Linear Regression
-### Future prediction of Natural Disasters -->
+## Machine Learning Results
+![Model Results](https://user-images.githubusercontent.com/91188372/164883134-987d437f-592a-4196-a84a-3798a380ae77.png)
 
 ## Insights, Observations and Conclusion
-
+1. Increased greenhouse gases will lead to global warming, which in turn/concurrently, leads to the increase in occurrence of natural disasters
+2. From our forecasted data, this trend will continue to increase throughout from 2021 to 2030 if no actions are taken to reduce the emission of greenhouse gases
+3. This climate change will cause an increase in natural disasters such as droughts, floods and forest fires for already affected countries based on our regression model
 
 ## Challenges faced
-- Greenhouse gases datasets have different starting year datapoints
-- Temperature change datasets 
-- Disasters datasets 
+1. ARIMA forecasting model does not account for seasonality in the time series data
+2. The best hyperparameters for the model was obtained by using grid search and selected based on the lowest AIC value
+3. SARIMA model was used as it accounts for seasonality in the time series data
+4. The accuracy of the prediction of greenhouse gases and temperature change by using SARIMA forecasting model is determined by the RMSE value
+5. Multivariate Linear Regression is then used to estimate the natural disaster occurrences from the predicted values given by the SARIMA forecasting model
+6. Best estimation of the regression model is determined by the metrics  (RMSE, R2) values
 
-## Out-of-classroom implementations
+
+## Out-of-Classroom Implementations
 - Initiating the use of GitHub and Google Collab for project collaboration and data repository purposes
 - Implementing different visualisation tools such as geopandas, stacked bar graph
 - Implementing ARIMA forecasting model with grid search hyperparameters tuning
@@ -156,12 +83,7 @@ Does the **increase of greenhouse gases** in our climate contribute to a more im
 
 
 
-## External links, references & inspirations
-<!-- - Disaster dataset: https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis
-- Temperature dataset: https://data.giss.nasa.gov/gistemp/
-- C02 dataset: https://gml.noaa.gov/ccgg/trends/data.html
-- CH4 dataset: https://gml.noaa.gov/ccgg/trends_ch4/
-- N20 dataset: https://gml.noaa.gov/ccgg/trends_n2o/ -->
+## External Links, References & Inspirations
 - Presentation Slides: https://docs.google.com/presentation/d/1J5O34ClllCszNBYHl5l9RQCixlJtVRxFab4xB8KYePg/edit?usp=sharing
 - Climate Change indicators: https://www.epa.gov/climate-indicators/greenhouse-gases#:~:text=An%20increase%20in%20the%20atmospheric,atmosphere%20increased%20by%2045%20percent.
 - Greenhouse gases: https://www.epa.gov/ghgemissions/overview-greenhouse-gases
