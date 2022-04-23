@@ -90,9 +90,9 @@ Does the **increase of greenhouse gases** in our climate contribute to a more im
 
 ## Machine Learning Models Used and Process
 ### Models Used:
-- [ARIMA](#arima-introduction)
-- [Seasonal-ARIMA (SARIMA)](#sarima-introduction)
-- [Multi-Variate Linear Regression](#multivariate-linear-regression-introduction)
+- ARIMA
+- Seasonal-ARIMA (SARIMA)
+- Multi-Variate Linear Regression
 
 ### Our ML Process:
 ![Machine Learning Process](https://user-images.githubusercontent.com/91188372/164874761-4dfe0cb3-2647-4771-88ce-6a4150f915a7.JPG)
@@ -144,9 +144,9 @@ Does the **increase of greenhouse gases** in our climate contribute to a more im
 - Greenhouse gases datasets have different starting year datapoints
 - Temperature change datasets 
 - Disasters datasets 
-- 
+
 ## Out-of-classroom implementations
-- Initiating the use of Git-hub and Google Collab for project collaboration and data repository purposes
+- Initiating the use of GitHub and Google Collab for project collaboration and data repository purposes
 - Implementing different visualisation tools such as geopandas, stacked bar graph
 - Implementing ARIMA forecasting model with grid search hyperparameters tuning
 - Implementing SARIMA forecasting model with grid search hyperparameters tuning
