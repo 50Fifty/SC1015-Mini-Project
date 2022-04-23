@@ -14,8 +14,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 | Name                  |              Area of Focus               |    Telegram handle |
 |----------------------|:----------------------------------------:|----------------|
 | Foo Jen Sean | ARIMA, Multivariate Linear Regression | @mediumsean |
-| Jeffrey Lim Yi Ren | Slides, Dataset Sourcing, Github Repository| @jeffreylyr  |
-| Karishein Chandran |  |  |  
+| Jeffrey Lim Yi Ren | Slides, Dataset Sourcing, Github Repository | @jeffreylyr |
+| Karishein Chandran | EDA, SARIMA, Slides | @karishein6 |  
 
 ## Problem Definition
 Does the **increase of greenhouse gases** in our climate contribute to a more immediate and imminent problem such as **Natural Disasters**?
@@ -29,7 +29,7 @@ Does the **increase of greenhouse gases** in our climate contribute to a more im
 `Please Install all relevant dependencies and libraries required for EACH individual components`
 1. [EDA](https://github.com/Dumbledore66/Mini-Project/blob/main/Source%20Codes/SC1015_Mini_Project_EDA.ipynb)
 2. [ARIMA Model](https://github.com/Dumbledore66/Mini-Project/blob/main/Source%20Codes/SC1015_Mini_Project_ARIMA.ipynb)
-3. [SARIMA Model](https://github.com/)
+3. [SARIMA Model](https://github.com/Dumbledore66/Mini-Project/blob/main/Source%20Codes/SC1015_Mini_Project_SARIMA.ipynb)
 4. [Multi-Variate Linear Regression](https://github.com/)
 
 > [Full Jupyter Notebook](https://github.com/Dumbledore66/Mini-Project/blob/main/Source%20Codes/SC1015_Mini_Project_FULL.ipynb)  
