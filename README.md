@@ -13,7 +13,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 | Name                  |              Area of Focus               |    Telegram handle |
 |----------------------|:----------------------------------------:|----------------|
-| Foo Jen Sean | EDA, ARIMA, Multivariate Linear Regression | @mediumsean |
+| Foo Jen Sean | EDA, ARIMA, Multivariate Linear Regression, Slides | @mediumsean |
 | Jeffrey Lim Yi Ren | EDA, Slides, Dataset Sourcing, Github Repository | @jeffreylyr |
 | Karishein Chandran | EDA, SARIMA, Slides | @karishein6 |  
 
