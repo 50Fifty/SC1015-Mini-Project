@@ -61,6 +61,8 @@ Generalised Forecasting Equation
 
 ## SARIMA 
 Generalised Equation 
+```Φ(𝐵𝑚)𝜙(𝐵)∇𝐷𝑚∇𝑑𝑋𝑡 = Θ(𝐵𝑚)𝜃(𝐵)𝑍𝑡```
+
 ### Our ML Process:
 ![Machine Learning Process](https://user-images.githubusercontent.com/91188372/164874761-4dfe0cb3-2647-4771-88ce-6a4150f915a7.JPG)
 
