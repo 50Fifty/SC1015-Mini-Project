@@ -3,23 +3,25 @@
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on making estimations on the likelihood of natural disasters occuring based on the changes in our climate such as the rise in greenhouse gases emissions and temperature. 
 
-![image](https://github.com/Dumbledore66/Mini-Project/blob/main/Project%20cover%20page.png)
+<!-- ![image](https://github.com/Dumbledore66/Mini-Project/blob/main/Project%20cover%20page.png) -->
+![Cover Image](https://user-images.githubusercontent.com/91188372/164874007-277a8782-8888-4b14-8cb4-e3abafb8d4ba.JPG)
 
 
-# Contributors
+
+## Contributors
 > For any queries related to this project , please refer to [Disclaimer](#disclaimer) section before sending us an enquiry
 
 | Name                  |              Area of Focus               |    Telegram handle |
 |----------------------|:----------------------------------------:|----------------|
-|     |                                          |                    |
-|          |                                          |                    |
-|  |                                          |                    |  
+| Foo Jen Sean | ARIMA, Multivariate Linear Regression | @mediumsean |
+| Jeffrey Lim Yi Ren |  |  |
+| Karishein Chandran |  |  |  
 
 
-# Table of Contents
-- [Problem definitions](#problem-definition)
+<!-- ## Table of Contents
+- [Problem Definitions](#problem-definition)
 - [Project Motivations](#motivations)
-<!-- - [Team members](#contributors) -->
+- [Team members](#contributors)
 - [Source code individual components](#source-code-of-individual-components-in-order)
 - [Machine Learning Process](#machine-learning-process)
 - [Dataset Selection & Preparation](#dataset-selection--preparation)
@@ -52,13 +54,13 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - [Out-of-classroom implementations](#out-of-classroom-implementations)
 - [Closing Remarks](#closing-remarks)
 - [External links, references & inspirations](#external-links-references--inspirations)
-- [Disclaimer](#disclaimer)
+- [Disclaimer](#disclaimer) -->
 
 
-# Problem definition
+## Problem Definition
+Does the **increase of greenhouse gases** in our climate contribute to a more immediate and imminent problem such as **Natural Disasters**?
 
-
-# Motivations
+## Motivations
 
 
 
@@ -66,100 +68,95 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 > For detailed project walkthrough, please view the source code [below](#source-code-of-individual-components-in-order)
 
 
-
-
-# Source code of individual components (in order)
+<!-- ## Source code of individual components (in order)
 `Please Install all relevant dependencies and libraries required for EACH individual components`
 1. [EDA](https://github.com/)
 2. [ARIMA Model](https://github.com/)
 3. [SARIMA Model](https://github.com/)
-4. [Multi-Variate Linear Regression](https://github.com/)
+4. [Multi-Variate Linear Regression](https://github.com/) -->
 
-# Machine Learning Process
-<< Insert Image >>
-- [Grid Search ARIMA hyperparameters](#arima-introduction)
+## Dataset Selection & Preparation
+
+### Disaster Dataset (Kaggle - Baris Dincer):
+[ALL NATURAL DISASTERS 1900-2021 / EOSDIS](https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis)
+
+### Temperature Change Dataset (NASA):
+[GISS Surface Temperature Analysis (GISTEMP v4)](https://data.giss.nasa.gov/gistemp/)
+
+### Greenhouse Gases Datasets (Global Monitoring Laboratory):
+[Trends in Atmospheric Carbon Dioxide](https://gml.noaa.gov/ccgg/trends/data.html)  
+[Trends in Atmospheric Methane](https://gml.noaa.gov/ccgg/trends_ch4/)  
+[Trends in Atmospheric Nitrous Oxide](https://gml.noaa.gov/ccgg/trends_n2o/)
+
+## Machine Learning Models Used and Process
+### Models Used:
+- [ARIMA](#arima-introduction)
 - [Seasonal-ARIMA (SARIMA)](#sarima-introduction)
 - [Multi-Variate Linear Regression](#multivariate-linear-regression-introduction)
 
+### Our ML Process:
+![Machine Learning Process](https://user-images.githubusercontent.com/91188372/164874761-4dfe0cb3-2647-4771-88ce-6a4150f915a7.JPG)
 
-# Dataset Selection & Preparation
-
-## Disaster Dataset
-Disaster dataset can be found [here](https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis)
-
-## Temperature Change Dataset
-Temperature change dataset can be found [here](https://data.giss.nasa.gov/gistemp/)
-
-## Greenhouse Gases Datasets
-C02 dataset can be found [here](https://gml.noaa.gov/ccgg/trends/data.html)  
-CH4 dataset can be found [here](https://gml.noaa.gov/ccgg/trends_ch4/)  
-N20 dataset can be found [here](https://gml.noaa.gov/ccgg/trends_n2o/)  
-
-#Exploratory Data Analysis](#exploratory-data-analysis)
+<!-- ## Exploratory Data Analysis](#exploratory-data-analysis)
     - [EDA.ipynb]()
     - [ ]
     - [](#)
     - [](#)
-    - [](#)
+    - [](#) -->
 
 
+<!-- 
+## Machine Learning Models Used
 
-# Machine Learning - Forecasting Models
+1. ARIMA
+2. SARIMA
+3. Multivariate Linear Regression -->
 
-## Machine Learning Process
+<!-- ### ARIMA Introduction
 
+### [ARIMA model file]:(ARIMA.ipynb)
 
-## ARIMA Introduction
-![ARIMA](https://user-images.githubusercontent.com/91188372/164865849-edc2770f-8446-4da4-be3d-aead2c4c9660.jpg)
+### Hyperparameters Tuning using Grid search for ARIMA
 
-The ARIMA Model consists of 3 components:
-- **Autoregression (AR)**: refers to a model that shows a changing variable that regresses on its own lagged, or prior, values.
-- **Integrated (I)**: represents the differencing of raw observations to allow for the time series to become stationary (i.e., data values are replaced by the difference between the data values and the previous values).
-- **Moving average (MA)**:  incorporates the dependency between an observation and a residual error from a moving average model applied to lagged observations.
+### Obtaining Test Data ARIMA
 
-## [ARIMA model file]:(ARIMA.ipynb)
+### Future Prediction with ARIMA Model
 
-## Hyperparameters Tuning using Grid search for ARIMA
+### SARIMA Introduction
 
-## Obtaining Test Data ARIMA
+### SARIMA model file: SARIMA.ipynb]()
 
-## Future Prediction with ARIMA Model
+### Hyperparameters Tuning using Grid Search for SARIMA
 
-## SARIMA Introduction
+### Obtaining Test Data SARIMA
 
-## SARIMA model file: SARIMA.ipynb]()
+### Future Prediction with SARIMA Model
 
-## Hyperparameters Tuning using Grid Search for SARIMA
+## Machine Learning - Regression model
+### Multivariate Linear Regression Introduction
+### Obtaining Test Data Multivariate Linear Regression
+### Future prediction of Natural Disasters -->
 
-## Obtaining Test Data SARIMA
-
-## Future Prediction with SARIMA Model
-
-# Machine Learning - Regression model
-## Multivariate Linear Regression Introduction
-## Obtaining Test Data Multivariate Linear Regression
-## Future prediction of Natural Disasters
-
-# Insights, Observations and Conclusion
+## Insights, Observations and Conclusion
 
 
-# Challenges faced
+## Challenges faced
 - Greenhouse gases datasets have different starting year datapoints
 - Temperature change datasets 
 - Disasters datasets 
 - 
-# Out-of-classroom implementations
+## Out-of-classroom implementations
 - Initiating the use of Git-hub and Google Collab for project collaboration and data repository purposes
 - Implementing different visualiztion tools such as geopandas, stacked bar graph,  
 - Implementing ARIMA forecasting model with grid search hyperparameters tuning
 - Implementing SARIMA forecasting model with grid search hyperparameters tuning
 - Implementing Multi-Variate linear regression model
 
-# Closing Remarks
+## Closing Remarks
 
 
 
-# External links, references & inspirations
+## External links, references & inspirations
 - Disaster dataset: https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis
 - Temperature dataset: https://data.giss.nasa.gov/gistemp/
 - C02 dataset: https://gml.noaa.gov/ccgg/trends/data.html
