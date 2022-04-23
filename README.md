@@ -23,7 +23,7 @@ Does the **increase of greenhouse gases** in our climate contribute to a more im
 ## Motivations
 
 > For brief project walkthrough, please refer to the slides [below](#external-links-references--inspirations)  
-> For detailed project walkthrough, please view the [source code](#https://github.com/Dumbledore66/Mini-Project/tree/main/Source%20Codes)
+> For detailed project walkthrough, please view the [source code](https://github.com/Dumbledore66/Mini-Project/tree/main/Source%20Codes)
 
 ## Source Code of Individual Components (in order)
 `Please Install all relevant dependencies and libraries required for EACH individual components`
