@@ -99,6 +99,8 @@ Generalised Equation
 - Greenhouse gases: https://www.epa.gov/ghgemissions/overview-greenhouse-gases
 - ARIMA: https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/
 - ARIMA: https://otexts.com/fpp2/arima.html
+- SARIMA: https://towardsdatascience.com/time-series-forecasting-with-sarima-in-python-cda5b793977b
+- SARIMA: https://towardsdev.com/auto-arima-hyperparameter-search-ab991a21c2bd
 
 ## Disclaimer
 - This prediction is **NOT** fine-tuned for 100% accuracy
