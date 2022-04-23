@@ -35,7 +35,6 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - [Machine Learning - Forecasting models](#machine-learning---forecasting-models)
     - [ARIMA model file: ARIMA.ipynb]()
     - [ARIMA Introduction](#arima-introduction)
-  ARIMA comprises of 3 components
     - [Hyperparameters Tuning using Grid search for ARIMA](#hyperparameters-tuning-using-grid-search-for-arima)
     - [Obtaining Test Data ARIMA](#obtaining-test-data-arima)
     - [Future Prediction using ARIMA model](#future-prediction-with-arima-model)
@@ -107,7 +106,8 @@ N20 dataset can be found [here](https://gml.noaa.gov/ccgg/trends_n2o/)
 
 # Machine Learning - Forecasting Models
 ## ARIMA Introduction
-[ARIMA model file]:(ARIMA.ipynb)
+
+## [ARIMA model file]:(ARIMA.ipynb)
 
 ## Hyperparameters Tuning using Grid search for ARIMA
 
