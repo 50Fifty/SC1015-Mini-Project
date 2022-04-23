@@ -105,6 +105,10 @@ N20 dataset can be found [here](https://gml.noaa.gov/ccgg/trends_n2o/)
 
 
 # Machine Learning - Forecasting Models
+
+## Machine Learning Process
+![ARIMA](https://user-images.githubusercontent.com/91188372/164865849-edc2770f-8446-4da4-be3d-aead2c4c9660.jpg)
+
 ## ARIMA Introduction
 
 ## [ARIMA model file]:(ARIMA.ipynb)
