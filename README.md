@@ -128,4 +128,4 @@ We would like to take this time to thank our tutor, Liu Di Kai for his patience 
 - All datasets, knowledge-based information and additional codes references are credited to their rightful owners under [External links, references & inspirations](#external-links-references--inspirations)
 - Referencing, redistributing and licensing of this project shall only be for the sole purpose of education purposes
 
-You've reached the end of the READ.ME file, click [here](#sc1015-datascience-mini-project-estimating-frequency-of-natural-disasters-with-machine-learning) to return to the top
+You've reached the end of the READ.ME file, click [here](#sc1015-data-science-mini-project-estimating-frequency-of-natural-disasters-with-machine-learning) to return to the top
