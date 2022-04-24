@@ -106,7 +106,7 @@ Generalised Equation
 - Implementing Multivariate Linear Regression model
 
 ## Closing Remarks
-We would like to take this time to thank our tutor, Liu Di Kai for his patience and guidiance in this project. 
+We would like to take this time to thank our tutor, Liu Di Kai for his patience and guidance in this project. 
 
 
 ## External Links, References & Inspirations
