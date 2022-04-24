@@ -21,9 +21,21 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 Does the **increase of greenhouse gases** in our climate contribute to a more immediate and imminent problem such as **Natural Disasters**?
 
 ## Motivations
-
 > For brief project walkthrough, please refer to the slides [below](#external-links-references--inspirations)  
-> For detailed project walkthrough, please view the [source code](https://github.com/Dumbledore66/Mini-Project/tree/main/Source%20Codes)
+> For detailed project walkthrough, please view the [source code](https://github.com/Dumbledore66/Mini-Project/tree/main/Source%20Codes)  
+
+Greenhouse gases comprises of Carbon Dioxide (CO2) , Methane(CH4), Nitrous Oxide(N20) and Fluroinated gas. These are the more common gases in our atmosphere that help trap heat in our atmosphere, which is also known as the greenhouse effect. This effect helps to keep our Earth's surface warm, making it habitable for living beings. However ,CO2 produced by human activities is the largest contributor to global warming. By 2020, its concentration in the atmosphere had risen to 48% above its pre-industrial level (before 1750). Hence, this trapping of heat and the increase of carbon gas emission in the atmosphere have in turn. cause a long-term rise in global temperatures, which is known as global warming.  
+![Greenhouse Gases](https://github.com/Dumbledore66/Mini-Project/blob/main/Miscellaneous/Slide5%20Greenhouse%20gases%20pie%20chart.JPG)
+
+Global Warming 
+
+
+![Global Warming](https://github.com/Dumbledore66/Mini-Project/blob/main/Miscellaneous/Slide6%20Global%20warming.JPG0)
+
+Natural disasters have always been a threat to all life form. On average since 1970, each disasters have take 367 lives, affected around 740,000 lives, and caused around USD 750,000 in damages.
+![Natural Disaster](https://github.com/Dumbledore66/Mini-Project/blob/main/Miscellaneous/Slide7%20Natural%20disasters.JPG)
+
+
 
 ## Source Code of Individual Components (in order)
 `Please Install all relevant dependencies and libraries required for EACH individual components`
@@ -59,7 +71,6 @@ For a quick glance:
 ## ARIMA 
 Generalised Forecasting Equation
 ``` ŷt   =   μ + ϕ1 yt-1 +…+ ϕp yt-p - θ1et-1 -…- θqet-q ```  
-
 
 ## SARIMA 
 Generalised Equation 
