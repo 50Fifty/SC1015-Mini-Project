@@ -65,16 +65,16 @@ For a quick glance:
 [Trends in Atmospheric Nitrous Oxide](https://gml.noaa.gov/ccgg/trends_n2o/)
 
 ## Machine Learning Models Used and Process
-### Models Used:
+## Models Used:
 - ARIMA
 - Seasonal-ARIMA (SARIMA)
 - Multi-Variate Linear Regression
 
-## ARIMA 
+### ARIMA 
 Generalised Forecasting Equation
 ``` ŷt   =   μ + ϕ1 yt-1 +…+ ϕp yt-p - θ1et-1 -…- θqet-q ```  
 
-## SARIMA 
+### SARIMA 
 Generalised Equation 
 ```Φ(𝐵𝑚)𝜙(𝐵)∇𝐷𝑚∇𝑑𝑋𝑡 = Θ(𝐵𝑚)𝜃(𝐵)𝑍𝑡```
 
