@@ -111,7 +111,7 @@ We would like to take this time to thank our tutor, Liu Di Kai for his patience 
 
 ## External Links, References & Inspirations
 - [Presentation Slides (PPT, no audio)](https://docs.google.com/presentation/d/1J5O34ClllCszNBYHl5l9RQCixlJtVRxFab4xB8KYePg/edit?usp=sharing)
-- [Presentation Slides (PDF)](https://github.com/Dumbledore66/Mini-Project/blob/main/Slides_PDF_SC3_LimChandranFoo.pdf)
+- [Presentation Slides (PDF, no audio)](https://github.com/Dumbledore66/Mini-Project/blob/main/Slides_PDF_SC3_LimChandranFoo.pdf)
 - Climate Change indicators: https://www.epa.gov/climate-indicators/greenhouse-gases#:~:text=An%20increase%20in%20the%20atmospheric,atmosphere%20increased%20by%2045%20percent.
 - Greenhouse gases: https://www.epa.gov/ghgemissions/overview-greenhouse-gases
 - ARIMA: https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/
