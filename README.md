@@ -23,17 +23,20 @@ Does the **increase of greenhouse gases** in our climate contribute to a more im
 ## Motivations
 In order to proceed with the estimating the frequency of natural disasters, we will have to break down the problem statement into different area of focus. 
 
-Greenhouse gases comprises of Carbon Dioxide (CO2) , Methane(CH4), Nitrous Oxide(N20) and Fluroinated gas. These are the more common gases in our atmosphere that help trap heat in our atmosphere, which is also known as the greenhouse effect. This effect helps to keep our Earth's surface warm, making it habitable for living beings. However ,CO2 produced by human activities is the largest contributor to global warming. By 2020, its concentration in the atmosphere had risen to 48% above its pre-industrial level (before 1750). Hence, this trapping of heat and the increase of carbon gas emission in the atmosphere have in turn, cause a long-term rise in global temperatures, which is known as global warming.  
+Greenhouse gases comprises of Carbon Dioxide (CO2) , Methane(CH4), Nitrous Oxide(N20) and Fluroinated gas. These are the more common gases in our atmosphere that help trap heat in our atmosphere, which is also known as the greenhouse effect. This effect helps to keep our Earth's surface warm, making it habitable for living beings. However ,CO2 produced by human activities is the largest contributor to global warming. By 2020, its concentration in the atmosphere had risen to 48% above its pre-industrial level (before 1750). Hence, this trapping of heat and the increase of carbon gas emission in the atmosphere have in turn, cause a long-term rise in global temperatures, which is known as global warming.
+
 ![Greenhouse Gases](https://github.com/Dumbledore66/Mini-Project/blob/main/Miscellaneous/Slide5%20Greenhouse%20gases%20pie%20chart.JPG)
 
-Global Warming can cause changes such as rise in sea level or melting glaciers causes natural disasters such as floods and tsunami. The change in precipitation pattern can lead to increased risk of natural dissaters such as droughts and forest fires in certain area, and floods in another. 
+Global Warming can cause changes such as rise in sea level or melting glaciers causes natural disasters such as floods and tsunami. The change in precipitation pattern can lead to increased risk of natural dissaters such as droughts and forest fires in certain area, and floods in another.
+
 ![Global Warming](https://github.com/Dumbledore66/Mini-Project/blob/main/Miscellaneous/Slide6%20Global%20warming.JPG)
 
 
 Natural disasters have always been a threat to all life form. On average since 1970, each disasters have take 367 lives, affected around 740,000 lives, and caused around USD 750,000 in damages.
 
 
-With this in mind, we have 3 main areas to focus on, the rise in greenhouse gases, rise in global temperature and also the rise in natural disasters occurrence.  
+With this in mind, we have 3 main areas to focus on, the rise in greenhouse gases, rise in global temperature and also the rise in natural disasters occurrence.
+
 ![Problem Breakdown](https://github.com/Dumbledore66/Mini-Project/blob/main/Miscellaneous/Slide8%20Problem%20breakdown.JPG)
 
 > For visual project walkthrough, please refer to the slides [below](#external-links-references--inspirations)  
