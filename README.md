@@ -21,7 +21,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 Does the **increase of greenhouse gases** in our climate contribute to a more immediate and imminent problem such as **Natural Disasters**?
 
 ## Motivations
-In order to proceed with the estimating the frequency of greenhouse gases, we will have to break down the problem statement into different area of focus. 
+In order to proceed with the estimating the frequency of natural disasters, we will have to break down the problem statement into different area of focus. 
 
 Greenhouse gases comprises of Carbon Dioxide (CO2) , Methane(CH4), Nitrous Oxide(N20) and Fluroinated gas. These are the more common gases in our atmosphere that help trap heat in our atmosphere, which is also known as the greenhouse effect. This effect helps to keep our Earth's surface warm, making it habitable for living beings. However ,CO2 produced by human activities is the largest contributor to global warming. By 2020, its concentration in the atmosphere had risen to 48% above its pre-industrial level (before 1750). Hence, this trapping of heat and the increase of carbon gas emission in the atmosphere have in turn, cause a long-term rise in global temperatures, which is known as global warming.  
 ![Greenhouse Gases](https://github.com/Dumbledore66/Mini-Project/blob/main/Miscellaneous/Slide5%20Greenhouse%20gases%20pie%20chart.JPG)
