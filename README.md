@@ -109,8 +109,7 @@ Generalised Equation
 - Implementing Multivariate Linear Regression model
 
 ## Closing Remarks
-We would like to take this time to thank our tutor, Liu Di Kai for his patience and guidance in this project. 
-
+Through this project, our team have learn about the importance of global warming and how it contributes to a more immediate and imminent impact such as natural disasters. Our team believes that every country should be responsible for the amount of carbon emissions produced, and should be taking sustainability measures to reduce the concentration of these gases in our atmosphere. This will in enable a longer lifespan of Mother Earth.  
 
 ## External Links, References & Inspirations
 - [Presentation Slides (PDF, no audio)](https://github.com/Dumbledore66/Mini-Project/blob/main/Slides_PDF_SC3_LimChandranFoo.pdf)
