@@ -32,7 +32,7 @@ Global Warming can cause changes such as rise in sea level or melting glaciers c
 ![Global Warming](https://github.com/Dumbledore66/Mini-Project/blob/main/Miscellaneous/Slide6%20Global%20warming.JPG)
 
 
-Natural disasters have always been a threat to all life form. On average since 1970, each disasters have take 367 lives, affected around 740,000 lives, and caused around USD 750,000 in damages.
+Natural disasters have always been a threat to all life form. On average since 1970, each disasters have taken 367 lives, affected around 740,000 lives, and caused around USD 750,000 in damages.
 
 
 With this in mind, we have 3 main areas to focus on, the rise in greenhouse gases, rise in global temperature and also the rise in natural disasters occurrence.
